@@ -14,7 +14,7 @@ Factors or measurements that are taken into consideration are:
 9. **Availability of the Room Throughout the Year**
 
 
-## Created by:
+## Created by
 Choy Mei Xin  
 Tan Yin Yuen  
 Kenneth Koay
@@ -22,7 +22,7 @@ Kenneth Koay
 
 ## Data Source
 The data source can be obtained via:
-1. Excel file: https://github.com/KennethThePro/AB_NYC_2019_EDA/blob/main/AB_NYC_2019.xlsx
+1. Excel File: https://github.com/KennethThePro/AB_NYC_2019_EDA/blob/main/AB_NYC_2019.xlsx
 2. Tableau Website: https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
 
 
